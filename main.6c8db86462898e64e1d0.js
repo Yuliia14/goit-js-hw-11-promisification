@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(n,t,e){"use strict";e.r(t);e("cgVt"),e("JBxO"),e("FdtR");var o=function(n){return new Promise((function(t){setTimeout((function(){return t(n)}),n)}))},i=function(n){return console.log("Resolved after "+n+"ms")};o(2e3).then(i),o(1e3).then(i),o(1500).then(i)},cgVt:function(n,t,e){}},[["QfWi",1,2]]]);
+//# sourceMappingURL=main.6c8db86462898e64e1d0.js.map
